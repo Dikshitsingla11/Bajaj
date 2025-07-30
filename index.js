@@ -10,9 +10,9 @@ app.use(express.json());
 
 // User details (as per requirements)
 const USER_DETAILS = {
-  fullName: 'daksh_rana',
-  email: 'ranadaksh205@gmail.com',
-  rollNumber: '2210991475',
+  fullName: 'dikshit_singla',
+  email: 'dikshitsingla934@gmail.com',
+  rollNumber: '2210990284',
 };
 
 // Helper functions
